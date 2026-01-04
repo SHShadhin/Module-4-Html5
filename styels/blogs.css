@@ -1,0 +1,38 @@
+* {
+    background-color: beige;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+    font-size: 20px;
+}
+nav li a {
+    text-decoration: none;
+}
+
+article h2 {
+    font-size: 30px;
+    color: blueviolet;
+}
+figure img {
+    width: 60%;
+}
+figcaption {
+    color: blueviolet;
+}
+section h3 {
+    font-size: 25px;
+    color:rgb(33, 152, 112)
+}
+section p {
+    font-size: 18px;
+    color:crimson;
+    text-align: justify;
+}
+button {
+    background-color: teal;
+    padding: 10px 20px;
+    border-radius: 7px;
+    color:beige;
+}
